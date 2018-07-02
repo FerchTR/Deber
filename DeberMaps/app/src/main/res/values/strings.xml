@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Tienda</string>
+    <string name="libro">Producto</string>
+    <string name="autor">Tienda</string>
+    <string name="details_btn">Detalles</string>
+    <string name="create_btn">Guardar</string>
+    <string name="create">Crear</string>
+    <string name="list_btn">Listar</string>
+    <string name="new_btn">Nuevo</string>
+    <string name="menu_edit">Editar</string>
+    <string name="menu_delete">Eliminar</string>
+    <string name="menu_share">Compartir</string>
+    <string name="details_autor">Detalles Tienda</string>
+    <string name="create_autor">Creacion Tienda</string>
+    <string name="edit_autor">Editar Tienda</string>
+    <string name="details_book">Detalles Proucto</string>
+    <string name="create_book">Creacion Producto</string>
+    <string name="edit_book">Editar Producto</string>
+    <string name="book_listt">Lista Producto</string>
+    <string name="name">Nombre:</string>
+    <string name="last_name">Direccion:</string>
+    <string name="fecha_nacimiento">Fecha Establecimiento:</string>
+    <string name="numero_libros">Numero Productos:</string>
+    <string name="ecuatoriano">Nacional:</string>
+    <string name="isbn">Ruc:</string>
+    <string name="numero_paginas">Cantidad en Stock:</string>
+    <string name="edicion">Edicion:</string>
+    <string name="fecha_publicacion">Fecha Compra:</string>
+    <string name="editorial">Proveedor:</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="maps">Mapa</string>
+    <string name="latitud">Latitud</string>
+    <string name="longitud">Longitud</string>
+    <string name="confirmation">Seguro desea eliminar?</string>
+    <string name="title_activity_maps">Mapa</string>
+</resources>
